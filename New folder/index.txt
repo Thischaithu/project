@@ -20,7 +20,7 @@
             <li><a href="#subject3">Chemistry</a></li>
             <li><a href="#subject4">Mathematics</a></li>
 	<li><a href="#subject6">ECE</a></li>
-	<li><a href="#subject5">EEE</a></li>
+	<li><a href="#subject5">EE</a></li>
         </ul>
     </nav>
 

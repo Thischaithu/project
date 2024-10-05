@@ -60,6 +60,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/1D7HPERsVtRE2zdtYyVoc8QaR0MeYiH3_/view?usp=drivesdk.pdf" target="_blank">TRIGONOMETRY</a></li>
                 <li><a href="https://drive.google.com/file/d/10eFn3q2KWQxCrSVulYvSh7KLQcleWjkn/view?usp=drivesdk.pdf" target="_blank">INTEGRATION</a></li>
+	 <li><a href="https://drive.google.com/file/d/1-3VQLmr1Yaw2En2kvlcspqQJeAeygbWe/view?usp=drivesdk.pdf" target="_blank">M3</a></li>
             </ul>
         </section>
         <section id="subject5">
